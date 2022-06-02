@@ -24,15 +24,15 @@
 <body>
     <div class="text-center">
         <div class="nom-groupe">
-            Groupe 5 
+           <?php echo 'Groupe 5 ' ; ?>
         </div>
         <div class="membre-groupe">
-            Mohamed Darbali <br>
-            Ahmed Lameri <br>
-            Ilham boussabaga <br>
-            Majdouline ait abdelali <br>
-            Soukayna khodder<br>
-            Mustapha Ahakay<br>
+        <?php echo  'Mohamed Darbali' ; ?><br>
+          <?php echo  ' Ahmed Lameri' ; ?><br>
+          <?php echo   ' Ilham bousbaga' ; ?><br>
+          <?php echo   'Majdouline ait abdelali' ; ?><br>
+          <?php echo    'Soukayna khodder '; ?><br>
+          <?php echo    'moustapha ahakkay '; ?><br>
         </div>
     </div>
 </body>
